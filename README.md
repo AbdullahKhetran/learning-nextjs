@@ -1,0 +1,1 @@
+This is an attempt at learning Next.js from this [Next.js repo](https://github.com/panaverse/learn-nextjs)
